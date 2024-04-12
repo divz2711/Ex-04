@@ -1,5 +1,5 @@
 ## SECURE HASH FUNCTION (SHA)
-## DATE :
+## DATE : 28-03-24
 ## AIM:
 Develop a program to implement Secure Hash Algorithm (SHA-1)
 ## SECURED HASH ALGORITHM-1 (SHA-1):
